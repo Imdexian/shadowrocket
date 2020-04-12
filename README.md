@@ -1,7 +1,5 @@
 # shadowrocket
-iOS共享Shadowrocket 小火箭账号， Shadowrocket 小火箭安装，苹果手机ss、ssr V2ray 客户端
-
-sqy57161@icloud.com----Aa112211  
+公众号：苹果软件分享  
 
 # 下载完请马上退出
 
